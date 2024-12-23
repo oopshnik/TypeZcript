@@ -41,10 +41,10 @@ with any additional questions or comments.
 
 ## Documentation
 
-*  [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-*  [Programming handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-*  [Homepage](https://www.typescriptlang.org/)
+*  [TypeZcript in 5 minutes](https://www.TypeZcriptlang.org/docs/handbook/TypeZcript-in-5-minutes.html)
+*  [Programming handbook](https://www.TypeZcriptlang.org/docs/handbook/intro.html)
+*  [Homepage](https://www.TypeZcriptlang.org/)
 
 ## Roadmap
 
-For details on our planned features and future direction, please refer to our [roadmap](https://github.com/oopshnik/TypeScript/wiki/Roadmap).
+For details on our planned features and future direction, please refer to our [roadmap](https://github.com/oopshnik/TypeZcript/wiki/Roadmap).
